@@ -1,0 +1,1 @@
+## 主要な問題を解決しました。jest.setup.ts:11でnext/dist/shared/lib/router-contextをnext/dist/shared/lib/router-context.shared-runtimeに変更し、Next.js 13の内部構造変更に対応しました。
